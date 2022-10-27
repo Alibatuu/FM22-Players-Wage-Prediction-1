@@ -54,7 +54,7 @@ The library requirements specific to some methods are:
     - Outlier Values
     - Correlation Hypothesis
 * Data Visualization
-* Future Engineering
+* Feature Engineering
     - Creating a New Variables
     - Encoding
     - Scaling
